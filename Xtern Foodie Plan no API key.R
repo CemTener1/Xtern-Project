@@ -271,7 +271,7 @@ ggplot(avg_rating_by_cuisine2, aes(x=Cuisine, y=avg_rating)) +
   ylab("Average Rating")
 
 
-
+#Hi, just testing smth
 
 
 
